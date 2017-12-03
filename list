@@ -1,17 +1,167 @@
-DATE					TYPE				NAME	SENDER			RECIPIENT								FEE				UNITS		BALANCE	
+CURRENT BALANCE	: 99,909,000
 
-12/3/2017 	7:44:11		Outgoing Transfer	MAKERS	You				3PFXnQj1FDmpsLDJSUDXgCdNL3rjU3MU7A9		0.001 WAVES		10000.00	99,909,000
-12/2/2017 	18:34:31	Outgoing Transfer	MAKERS	You				3PCaoJWRaKKospEvJBCxvodJf4yFu3k2dSn		0.001 WAVES		10000.00	99,919,000
-12/2/2017 	16:57:20	Outgoing Transfer	MAKERS	You				3PGVrp88W1VceYM3DcqojDdPxJ2QpvVt3FX		0.001 WAVES		10000.00	99,929,000
-12/2/2017 	16:05:48	Outgoing Transfer	MAKERS	You				3PG8cYWGcDsZyETEfT7uKf7AdU6DKVjk4SS		0.001 WAVES		10000.00	99,939,000		
-12/2/2017 	15:48:13	Outgoing Transfer	MAKERS	You				3PDGDF1KnrCtSZZ9XqsCYYqZPLCDsCVSaT7		0.001 WAVES		10000.00	99,949,000
-9/18/2017	16:10:40	Outgoing Transfer	MAKERS	You				3PAdQUcvFsQXfsQmAiSgoJxaZH2KVVXcDe6		0.001 WAVES		10000.00	99,959,000
-9/18/2017	15:43:34	Outgoing Transfer	MAKERS	You				3P5yT11eTFqKgPWodPp9vwsrUMTdS3F9JtW		0.001 WAVES		10000.00	99,969,000
-9/16/2017	16:08:12	Outgoing Transfer	MAKERS	You				3PJgvp47BMDcUrwyFa1cUjzTDMXBk1pXAiX		0.001 WAVES		10000.00	99,979,000
-9/16/2017	15:30:57	Outgoing Transfer	MAKERS	You				alias:W:wavesnotify						0.001 WAVES		10000.00	99,989,000
-8/28/2017	1:00:47		Outgoing Transfer	MAKERS	You				3P5KbmL1ZfLcTfLK9DnmpP8WdJEmBVedXcC		0.001 WAVES		1000.00		99,999,000
+{
+  "type" : 4,
+  "id" : "5Dew6AasQwh6LXPwgVjmN1QEcjcLQ2zm2XXsGAyU1sxn",
+  "sender" : "3P9mM5u1ayfZAxoZJA1KXEr4h78XDPZ2qeL",
+  "senderPublicKey" : "SiLkwhDA86h7MaS7VK83wcoZzcZ8pDT4HE1d9CY4x1J",
+  "fee" : 100000,
+  "timestamp" : 1512267251338,
+  "signature" : "2uw32yvW7t2u9fsgsXCLH75U4fNjb9bFHjze8GL2KvxB9cAnEE3MUWWZC15Y1QN13Ubqrydt2wf4AzHMZ9aR8zQU",
+  "recipient" : "3PFXnQj1FDmpsLDJSUDXgCdNL3rjU3MU7A9",
+  "assetId" : "CrH8As69ARvV4Qs4ELzZRQNccYU76N6geAwRP7wBE2pU",
+  "amount" : 1000000,
+  "feeAsset" : null,
+  "attachment" : "RGm2oC8ZqwmnFZhJAwSBimhAeFeifj1feESrPnRcMLwwMnR8hy4zEbRC1aqCn7qzVkxYtS8wc8dxZxY87QSYsZx9kTaJBvd2Kkncr"
+}
 
+{
+  "type" : 4,
+  "id" : "3WSdjUvwsEFk9TnAX5JGu7hZ6m3dTUKcuFM5B6FAKCWs",
+  "sender" : "3P9mM5u1ayfZAxoZJA1KXEr4h78XDPZ2qeL",
+  "senderPublicKey" : "SiLkwhDA86h7MaS7VK83wcoZzcZ8pDT4HE1d9CY4x1J",
+  "fee" : 100000,
+  "timestamp" : 1512219871110,
+  "signature" : "3K4nyt4z3toB2ia7Fc1U6ytrTqox77GEYDPS7uw24HpoxdE1ci2JKkgCaEFi6emkzhpVQxWTPbHgd4NNTa8ato75",
+  "recipient" : "3PCaoJWRaKKospEvJBCxvodJf4yFu3k2dSn",
+  "assetId" : "CrH8As69ARvV4Qs4ELzZRQNccYU76N6geAwRP7wBE2pU",
+  "amount" : 1000000,
+  "feeAsset" : null,
+  "attachment" : "j2tdEXfx"
+}
 
-8/21/2017	13:34:29	Creation of Token	MAKERS	You				A token for the creators, makers, scientists, artists, designers and developers, FOSS makers, essentially, 
-																	everyone on the producer side.  									1,00,000,000
+{
+  "type" : 4,
+  "id" : "93ZcsqEtynDUfVTATTPeVRTA49zgZJEb55XoNV2QQoxW",
+  "sender" : "3P9mM5u1ayfZAxoZJA1KXEr4h78XDPZ2qeL",
+  "senderPublicKey" : "SiLkwhDA86h7MaS7VK83wcoZzcZ8pDT4HE1d9CY4x1J",
+  "fee" : 100000,
+  "timestamp" : 1512214040577,
+  "signature" : "x3mwT6AuaJMgY9Ns3HqsfTEDpVnjwzCPF4EzGftiSSMD9cCCSNyauAyqSGqKjZxXkS7pVgvP4sXo4n8cVBaDHRd",
+  "recipient" : "3PGVrp88W1VceYM3DcqojDdPxJ2QpvVt3FX",
+  "assetId" : "CrH8As69ARvV4Qs4ELzZRQNccYU76N6geAwRP7wBE2pU",
+  "amount" : 1000000,
+  "feeAsset" : null,
+  "attachment" : "3TqMx563dDUUkXXraQaxwC3F3ti9Ud2wZZZk"
+}
 
+{
+  "type" : 4,
+  "id" : "2odvoE8Tv9g333wrDpNMPHz42YAvY6cyYSxWthhyW6sa",
+  "sender" : "3P9mM5u1ayfZAxoZJA1KXEr4h78XDPZ2qeL",
+  "senderPublicKey" : "SiLkwhDA86h7MaS7VK83wcoZzcZ8pDT4HE1d9CY4x1J",
+  "fee" : 100000,
+  "timestamp" : 1512210948321,
+  "signature" : "2LF3s7XYqauDXbRcj9xzVwcV4PNi9vqgdDmGpVLaPjfVjFQ4mEiToB4jK8fLrPj6uMuXobDyKWdPeFtCQVYbKW88",
+  "recipient" : "3PG8cYWGcDsZyETEfT7uKf7AdU6DKVjk4SS",
+  "assetId" : "CrH8As69ARvV4Qs4ELzZRQNccYU76N6geAwRP7wBE2pU",
+  "amount" : 1000000,
+  "feeAsset" : null,
+  "attachment" : "mXtED5Hg4Lv6QMzknCWeoErUR3GardxgJei5osMnprAavMaFTbWxdFeLe3V8AA8qXfj7VsbDDVKyyqF"
+}
+
+{
+  "type" : 4,
+  "id" : "LXA3Q8TeT8DkE9cSVNaRvg8fJFsdWxxZNAs6U6oLESf",
+  "sender" : "3P9mM5u1ayfZAxoZJA1KXEr4h78XDPZ2qeL",
+  "senderPublicKey" : "SiLkwhDA86h7MaS7VK83wcoZzcZ8pDT4HE1d9CY4x1J",
+  "fee" : 100000,
+  "timestamp" : 1512209893507,
+  "signature" : "5CjG9PBYCpWS8ovXKbEUoYC6unZe1bAKxjKdK8uPrCGHZXrZsyHetuVaGWgKgRRrAhWhftEYDTJ1caD4JVMPMnfT",
+  "recipient" : "3PDGDF1KnrCtSZZ9XqsCYYqZPLCDsCVSaT7",
+  "assetId" : "CrH8As69ARvV4Qs4ELzZRQNccYU76N6geAwRP7wBE2pU",
+  "amount" : 1000000,
+  "feeAsset" : null,
+  "attachment" : "8DC8HMsRmvxS5mQ3D2ZLhabRfRmzFbpoE59YWfnwZAn7DswKGXbMoEbKLdvPn29SrGRNwzWURwVNystaf51qTfSQ9TtTtgP8m7CfUMhx1A5GGZesxpycKo6CVY8nF9M6qFnpBN8zQj4eSkZuA"
+}
+
+{
+  "type" : 4,
+  "id" : "J7VpGpSvf7jU5fKNUTXtpBXeWjnPsBCzWPbdadr32Qd1",
+  "sender" : "3P9mM5u1ayfZAxoZJA1KXEr4h78XDPZ2qeL",
+  "senderPublicKey" : "SiLkwhDA86h7MaS7VK83wcoZzcZ8pDT4HE1d9CY4x1J",
+  "fee" : 100000,
+  "timestamp" : 1505731240581,
+  "signature" : "2LyRspyeZmBkNpYEqyPCZtY4SB9k3XDzRWrrEpcknQbaQWr6hwuFXbFCrDc9BBcvakYYdkNyWoan1cnTL5VeMpeU",
+  "recipient" : "3PAdQUcvFsQXfsQmAiSgoJxaZH2KVVXcDe6",
+  "assetId" : "CrH8As69ARvV4Qs4ELzZRQNccYU76N6geAwRP7wBE2pU",
+  "amount" : 1000000,
+  "feeAsset" : null,
+  "attachment" : "Ypp79D6VmjmsKa1ZtTLNDdFHZH71XRTiKZk142yrLzbUz6kSmkAUgXFj7etMPFmuErCqBUwH5J2UpZSRMM857id4Bc7L4QL45iTq1s1QVfrVyVGoHKEyDJH4wpYFRvEwMgJZusouDf8iMmFrK2"
+}
+
+{
+  "type" : 4,
+  "id" : "84RAknY9PYkv6ALT7RD9YktUkhT16zAk5wsdH9J9s8nc",
+  "sender" : "3P9mM5u1ayfZAxoZJA1KXEr4h78XDPZ2qeL",
+  "senderPublicKey" : "SiLkwhDA86h7MaS7VK83wcoZzcZ8pDT4HE1d9CY4x1J",
+  "fee" : 100000,
+  "timestamp" : 1505729613639,
+  "signature" : "67m7zeuLNt5wYugVejggLVwhqS1zsKs6tKyVpPFjivxM7kcyAvBasHaF4fFm4JpE6Pea1nKqvXpCKdbRPeua2nYs",
+  "recipient" : "3P5yT11eTFqKgPWodPp9vwsrUMTdS3F9JtW",
+  "assetId" : "CrH8As69ARvV4Qs4ELzZRQNccYU76N6geAwRP7wBE2pU",
+  "amount" : 1000000,
+  "feeAsset" : null,
+  "attachment" : "W5RpcKD81KB5uS9YtbGam1WgoaN41yFizoWe71pVQGbgsgV9UiXPqRsXWJvJpMS4dLKcxg78kghBuvv9dEnoWydxX3bNtew6q1vcdg7auaCFxu2nY8TjMDDKm9SemU2dzAH"
+}
+
+{
+  "type" : 4,
+  "id" : "7DwDgd42ukvBCPJfvxmwW2mhZfxRzADgQ2piiNrrjQRZ",
+  "sender" : "3P9mM5u1ayfZAxoZJA1KXEr4h78XDPZ2qeL",
+  "senderPublicKey" : "SiLkwhDA86h7MaS7VK83wcoZzcZ8pDT4HE1d9CY4x1J",
+  "fee" : 100000,
+  "timestamp" : 1505558292135,
+  "signature" : "5d2bKsd5oSE5ux8kDTgxQgaM2bgFkvMg4ShceSR2wvGp6iXGxnpu5QTCtWgVeMobTd584nVSbJ1XghbhCiRg7sdr",
+  "recipient" : "3PJgvp47BMDcUrwyFa1cUjzTDMXBk1pXAiX",
+  "assetId" : "CrH8As69ARvV4Qs4ELzZRQNccYU76N6geAwRP7wBE2pU",
+  "amount" : 1000000,
+  "feeAsset" : null,
+  "attachment" : "x7VPGApAm54YzTbsVyzoMRm7JYAbHHnc5SueCVnNLxBK1EDzBMsUU"
+}
+
+{
+  "type" : 4,
+  "id" : "FcmU56PJLi9AyUuUXc8oaUqtgqivpCTdQpZBXdseHEUj",
+  "sender" : "3P9mM5u1ayfZAxoZJA1KXEr4h78XDPZ2qeL",
+  "senderPublicKey" : "SiLkwhDA86h7MaS7VK83wcoZzcZ8pDT4HE1d9CY4x1J",
+  "fee" : 100000,
+  "timestamp" : 1505556056944,
+  "signature" : "TegXdZzqVMXciXxWWs8mffz1ctX1PVLThhi7EYZTtiGJTVHzPyjpS3mCdM7KSLEsNXygXgSFSY8wVuHWarPpLSM",
+  "recipient" : "alias:W:wavesnotify",
+  "assetId" : "CrH8As69ARvV4Qs4ELzZRQNccYU76N6geAwRP7wBE2pU",
+  "amount" : 1000000,
+  "feeAsset" : null,
+  "attachment" : "39EH5seMGKBvsdbAwsmgSvegM2GEd3Yx4RT42MWdkUu7k6JmLL1eSpar2TkC85HaQ7PUYk4SzpgdJTiwLWndVtmwNwcejm54qC38tbUvHGFnWPWKbtGR5JGrCTWyEt5Ffq7UJaFbhNNh2ixmoUMaVWErrGnCPukUi3bY7br2ghQEtoJu3qo8hF6SFQxqn"
+}
+
+{
+  "type" : 4,
+  "id" : "DbNJ7PQSvxD1CpVKBDxCidk5EYTuNk9qUMyKcqnytP6B",
+  "sender" : "3P9mM5u1ayfZAxoZJA1KXEr4h78XDPZ2qeL",
+  "senderPublicKey" : "SiLkwhDA86h7MaS7VK83wcoZzcZ8pDT4HE1d9CY4x1J",
+  "fee" : 100000,
+  "timestamp" : 1503862247390,
+  "signature" : "zpZwkBBmPBMm6CVETmAjdo12sgn4gBcWTFF8T6biNLYvp1fZtvasgJwsYUJDoujMkdPcCS3p226i7146PgXmH1f",
+  "recipient" : "3P5KbmL1ZfLcTfLK9DnmpP8WdJEmBVedXcC",
+  "assetId" : "CrH8As69ARvV4Qs4ELzZRQNccYU76N6geAwRP7wBE2pU",
+  "amount" : 100000,
+  "feeAsset" : null,
+  "attachment" : "3Umk7yM3EP"
+}
+
+{
+  "type" : 3,
+  "id" : "CrH8As69ARvV4Qs4ELzZRQNccYU76N6geAwRP7wBE2pU",
+  "sender" : "3P9mM5u1ayfZAxoZJA1KXEr4h78XDPZ2qeL",
+  "senderPublicKey" : "SiLkwhDA86h7MaS7VK83wcoZzcZ8pDT4HE1d9CY4x1J",
+  "fee" : 100000000,
+  "timestamp" : 1503302659761,
+  "signature" : "2QMXGbZyWkzyCiaiPC3UBpVTJqAG2AbUhqfEUe13sN75uKzo18mkEcpP9MNhaFxKQi3Eb58nSqkdGp3ErtFasbT1",
+  "assetId" : "CrH8As69ARvV4Qs4ELzZRQNccYU76N6geAwRP7wBE2pU",
+  "name" : "MAKERS",
+  "description" : "A token for the creators, makers, scientists, artists, designers and developers, FOSS makers, essentially, everyone on the producer side.",
+  "quantity" : 10000000000,
+  "decimals" : 2,
+  "reissuable" : true
+}
