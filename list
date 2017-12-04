@@ -1,4 +1,19 @@
-CURRENT BALANCE	: 99,899,000
+CURRENT BALANCE	: 99,889,000
+
+{
+  "type" : 4,
+  "id" : "Gu4JKpm4TTKn2VYxLjK3B1WsRKqUQwMXnAZEdFq7Qv8c",
+  "sender" : "3P9mM5u1ayfZAxoZJA1KXEr4h78XDPZ2qeL",
+  "senderPublicKey" : "SiLkwhDA86h7MaS7VK83wcoZzcZ8pDT4HE1d9CY4x1J",
+  "fee" : 100000,
+  "timestamp" : 1512396970384,
+  "signature" : "PxUrnBsFyDccbYsEzLwwkgi5VAnbFpyfeS5kAJ1fwrrS1BrqYgFH3vJaFVewEKjGEPZGX9xuutoUgB6f2fUyLFz",
+  "recipient" : "3PPytcvEyXssqAXGtqHyiRUXmebnXvfARdB",
+  "assetId" : "CrH8As69ARvV4Qs4ELzZRQNccYU76N6geAwRP7wBE2pU",
+  "amount" : 1000000,
+  "feeAsset" : null,
+  "attachment" : "j2tdEXfx"
+}
 
 {
   "type" : 4,

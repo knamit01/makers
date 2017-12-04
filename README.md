@@ -1,4 +1,5 @@
 # MAKERS
+A token for the creators, makers, scientists, artists, designers and developers, FOSS makers, essentially, everyone on the producer side.
 
 List of recipients of makers
 
